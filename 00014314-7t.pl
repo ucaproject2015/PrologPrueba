@@ -11,6 +11,7 @@ mario:-
 	animacion(Ventana,Icono, 0).
 %%%%HOLA ESTA ES UNA PRUEBA DE CAMBIOS
 %%%%CAMBIASFJKGNKNFBKG
+$$%TTGFfdg 
 
 animacion(Ventana,_,40):-
 	free(Ventana).
